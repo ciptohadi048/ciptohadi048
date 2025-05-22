@@ -6,5 +6,7 @@
 - 🌱 I’m currently learning **Tailwind CSS**
 
 <h3 align="left">Connect with me:</h3>
+<h2 align="left">Instagram: @ciptohdn</h2>
+
 <p align="left">
 </p>
